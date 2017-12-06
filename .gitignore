@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+*.pkl
+got/
+sports-6k/
+text8*
+*.zip
+*.w2v
